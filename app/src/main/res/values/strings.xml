@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">geojsontest1</string>
+    <string name="button_close">geo</string>
+    <string name="hello">hello</string>
+</resources>
